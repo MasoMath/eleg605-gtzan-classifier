@@ -1,0 +1,15 @@
+# Virtual environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large data / serialized checkpoints (adjust to your repo layout)
+boblsturm/
+GTZAN/
+testing_files/
+trained_models/
+*.pkl
+*.pt
+*.pth
